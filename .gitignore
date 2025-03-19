@@ -1,0 +1,6 @@
+/.venv
+
+*.xlsx
+*.csv
+*.zip
+*.env
